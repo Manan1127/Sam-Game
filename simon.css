@@ -1,0 +1,47 @@
+h1{
+  text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.bb{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.b{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.flash {
+    background-color: white;
+}
+
+
+.userflash {
+    background-color: green;
+}
