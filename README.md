@@ -17,7 +17,7 @@ The game generates a random sequence of colors, and the player must repeat the s
 5. The game ends when you make a mistake.  
 
 ## Live Demo
-👉 [Play Here](https://Manan1127.github.io/Simon-Game/)  
+👉 [Play Here](https://manan1127.github.io/Simon-Game/)  
 
 ## Tech Stack
 - HTML5  
