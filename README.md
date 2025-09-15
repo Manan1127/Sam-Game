@@ -22,7 +22,7 @@ The game generates a random sequence of colors, and the player must repeat the s
 ## Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
 
 ---
 Made with ❤️ by Manan
