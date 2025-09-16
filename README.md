@@ -1,6 +1,6 @@
-# Simon Game 🎮
+# Sam Game 🎮
 
-A memory-based Simon Game built using **HTML5, CSS3, and JavaScript**.  
+A memory-based Sam Game built using **HTML5, CSS3, and JavaScript**.  
 The game generates a random sequence of colors, and the player must repeat the sequence to progress to the next level.
 
 ## Features
@@ -17,7 +17,7 @@ The game generates a random sequence of colors, and the player must repeat the s
 5. The game ends when you make a mistake.  
 
 ## Live Demo
-👉 [Play Here](https://manan1127.github.io/Simon-Game/)  
+👉 [Play Here](https://manan1127.github.io/Sam-Game/)  
 
 ## Tech Stack
 - HTML5  
