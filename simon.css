@@ -1,9 +1,11 @@
 h1{
   text-align: center;
+  color: #4B2121 ;
 }
 
-h2{
+h4{
     text-align: center;
+    color: #4B2121;
 }
 
 .bb{
@@ -17,31 +19,40 @@ h2{
     height: 200px;
     width: 200px;
     border-radius: 20%;
-    border: 10px solid black;
+    border: 10px solid #634949;
     margin: 2.5rem;
 }
 
 .red {
-    background-color: red;
+    background-color: #A65B84;
 }
 
 .blue {
-    background-color: blue;
+    background-color: #20788C;
+
 }
 
 .purple {
-    background-color: purple;
+    background-color: #789342;
 }
 
 .yellow {
-    background-color: yellow;
+    background-color: #EFC063;
 }
 
 .flash {
-    background-color: white;
+    background-color:#E5E3D6 ;
 }
 
 
 .userflash {
-    background-color: green;
+    background-color: #634949;
+}
+
+body {
+    
+
+  font-family: "Montserrat", sans-serif;
+  
+background-color: #E5E3D6;
 }

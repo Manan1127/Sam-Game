@@ -7,7 +7,7 @@ let btns = ["red", "blue", "purple", "yellow"]
 let started = false;
 let level = 0;
 
-let h2 = document.querySelector("h2");
+let h2 = document.querySelector("h4");
 
 
 
@@ -90,9 +90,9 @@ function checkAns(idx){
     }
     else {
         h2.innerHTML = `Game Over! Your score was <b>${level}</b> <br> Press any key to start` ;
-        document.querySelector("body").style.backgroundColor= "red"
+        document.querySelector("body").style.backgroundColor= "#8C041D"
         setTimeout(function(){
-            document.querySelector("body").style.backgroundColor= "white"
+            document.querySelector("body").style.backgroundColor= "#E5E3D6"
             reset();
         },  250) ;
         
